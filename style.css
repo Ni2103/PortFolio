@@ -279,7 +279,7 @@ header {
 #things {
   position: relative;
   overflow-x: hidden;
-  margin-top: 15em;
+  margin-top: 5em;
 }
 
 #things h2 {
@@ -338,7 +338,7 @@ header {
     padding-bottom: 0;
   }
   .things__item--heading {
-    width: 45%;
+    width: 99%;
     text-align: initial;
   }
   .things__item--heading p {
@@ -436,7 +436,7 @@ header {
 
 .footer__img {
   position: absolute;
-  top: 0;
+  top: 15%;
   right: 0;
   transform: translateX(25%);
   z-index: -1;
